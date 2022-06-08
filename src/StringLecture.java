@@ -4,9 +4,9 @@ public class StringLecture {
 
 //        .equals(String anotherString)
 
-        // String one = "2";
-        // String two = "2";
-        // System.out.println("2".equals("2"));
+//         String one = "2";
+//         String two = "2";
+//         System.out.println("2".equals("2"));
 
 
 //        .equalsIgnoreCase(String anotherString)
