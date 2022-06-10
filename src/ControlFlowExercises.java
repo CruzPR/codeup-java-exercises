@@ -69,7 +69,7 @@ public class ControlFlowExercises {
 //        }
 //    } while (willContinue);
 
-        Scanner sc = new Scanner(System.in)
+//        Scanner sc = new Scanner(System.in)
 
 
 
