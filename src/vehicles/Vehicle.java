@@ -16,6 +16,12 @@ public class Vehicle {
         this.name = name;
     }
 
+    public Vehicle(){}
+
+    public Vehicle(String name) {
+        this.name = name;
+    }
+
 
 
 }
